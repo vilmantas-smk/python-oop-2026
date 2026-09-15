@@ -6,6 +6,8 @@ print("Floor (//):", 10 // 3)       # Truncates to int: 3
 print("Modulo (%):", 10 % 3)        # Remainder: 1
 print("Exponent (**):", 2 ** 3)     # 2 to the power of 3: 8
 
+
+
 print("\n--- 2. ORDER OF OPERATIONS & ASSIGNMENT ---")
 # Without parentheses vs With parentheses
 print("No parens:", 10 + 5 * 2)     # 20
