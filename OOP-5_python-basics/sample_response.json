@@ -1,0 +1,29 @@
+{
+  "kind": "youtube#searchListResponse",
+  "items": [
+    {
+      "id": {"kind": "youtube#video", "videoId": "abc123"},
+      "snippet": {
+        "publishedAt": "2026-09-28T14:00:00Z",
+        "title": "Python Tips",
+        "channelTitle": "CodeChannel"
+      }
+    },
+    {
+      "id": {"kind": "youtube#video", "videoId": "def456"},
+      "snippet": {
+        "publishedAt": "2026-09-27T09:30:00Z",
+        "title": "Learn OOP",
+        "channelTitle": "DevSchool"
+      }
+    },
+    {
+      "id": {"kind": "youtube#video", "videoId": "ghi789"},
+      "snippet": {
+        "publishedAt": "2026-09-25T18:15:00Z",
+        "title": "Sets Explained",
+        "channelTitle": "CodeChannel"
+      }
+    }
+  ]
+}
